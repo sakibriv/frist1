@@ -1,0 +1,100 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    background: gray;
+}
+.heder{
+    overflow: hidden;
+}
+.heder-left{
+    width: 50%;
+    float: left;
+}
+.heder-left .logo img{
+    width: 25%;
+}
+
+.heder-right{
+    width: 50%;
+    float: right;
+}
+
+.heder-right ul li{
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 15px;
+
+}
+
+.heder-right ul li a{
+    text-decoration: none;
+    
+   
+
+}
+.bodyone{
+    overflow: hidden;
+
+}
+.bodyone-left{
+    width: 50%;
+    float: left;
+
+}
+.bodyone-right{
+    width: 50%;
+    float: right;
+    
+
+}
+.bodyone-right img{
+width: 70%;
+margin-left: 130px;
+
+}
+.sakib{
+    border: 1px solid red;
+    margin-top: 20px;
+    height: 25px;
+    width: 250px;
+    border-radius: 2px;
+}
+.sasas{
+    border: 1px solid red;
+    margin-top: 5px;
+    height: 25px;
+    width: 250px;
+    border-radius: 2px;
+}
+.fpword{
+    font-size: 10px;
+    margin-top: 10px;
+}
+.sign{
+    height: 30px;
+    width: 250px;
+    background: blue;
+    color: beige;
+    border-radius: 15px;
+    border: 0;
+}
+.google{
+    height: 30px;
+    width: 250px;
+  margin-top: 10px;
+  border: 1px solid;
+   
+    border-radius: 15px;
+  
+}
+.new{
+    height: 30px;
+    width: 250px;
+    margin-top: 10px;
+    border-radius: 15px;
+    border: 1px solid;
+  
+}
